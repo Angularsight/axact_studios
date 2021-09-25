@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045397602901",
+    "project_id": "axact-studio-36520",
+    "storage_bucket": "axact-studio-36520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045397602901:android:c98114db04cc2b36a18adc",
+        "android_client_info": {
+          "package_name": "com.example.axact_studios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045397602901-pmj0b3p7p5qdlbev0i5fsoc09omlqcf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzeijyTs4qf583WhoMZ5djIFD0L6KQZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045397602901-pmj0b3p7p5qdlbev0i5fsoc09omlqcf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
